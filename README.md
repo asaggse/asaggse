@@ -4,6 +4,14 @@
 
 <p>I'm a software developer with a passion for solving problems and creating innovative solutions 💡. I'm always learning 🤓 and striving to improve my skills, and I'm excited to be a part of the development community 🌟. I believe that collaboration 🤝 and continuous learning 🧠 are key to success in this field, and I'm eager to work with others 🤝 to build something great 🚀.</p>
 
+<!--
+<h2>Skills</h2>
+<ul>
+  <li>💻️ html, css, js</li>
+  <li>🌱 I’m currently learning react & vue</li>
+</ul>
+-->
+
 [![Asaggse's GitHub stats](https://github-readme-stats.vercel.app/api?username=asaggse)](https://github.com/asaggse/github-readme-stats)
 
 <!--
