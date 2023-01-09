@@ -12,7 +12,7 @@
 </ul>
 -->
 
-<h2>My Github Stats: 📈</h2>
+<h2>My Github Stats 📈:</h2>
 
 [![Asaggse's GitHub stats](https://github-readme-stats.vercel.app/api?username=asaggse)](https://github.com/asaggse/github-readme-stats)
 
