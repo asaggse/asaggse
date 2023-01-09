@@ -23,7 +23,7 @@
   
 <h3>Coding Challenge</h3>
 <li><a href="https://github.com/asaggse/Esercizio-Scooter-Lim.git" target="_blank">Scooter Lim</a></li>
-<li><a href="(https://github.com/asaggse/custom-countdown.git" target="_blank">Custom Countdown</a></li>
+<li><a href="https://github.com/asaggse/custom-countdown.git" target="_blank">Custom Countdown</a></li>
 
 
 <h3>My Github Stats 📈:</h3>
