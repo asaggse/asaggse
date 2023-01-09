@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<h1>Hi, I'm Alessandro 👋</h1>
+# Hi, I'm Alessandro 👋
 
 <p>I'm a software developer with a passion for solving problems and creating innovative solutions 💡. I'm always learning 🤓 and striving to improve my skills, and I'm excited to be a part of the development community 🌟. I believe that collaboration 🤝 and continuous learning 🧠 are key to success in this field, and I'm eager to work with others 🤝 to build something great 🚀.</p>
 
@@ -11,6 +11,19 @@
   <li>🌱 I’m currently learning react & vue</li>
 </ul>
 -->
+
+## Recent Entries
+<h3>Boolean Coding Week 🎄:</h3>
+  <ul>
+    <li><a href="https://github.com/asaggse/Xmas-is-coming.git" target="_blank">Xmas is coming</a></li>
+    <li><a href="https://github.com/asaggse/Xmas-is-coming.git" target="_blank">Advent Code Calendar</a></li>
+    <li><a href="https://github.com/asaggse/Merry-Xmas-Generator.git" target="_blank">Merry Xmas Generator</a></li>
+    <li><a href="https://github.com/asaggse/Xmas-List.git" target="_blank">Xmas List</a></li>
+  </ul>
+  
+<h3>Coding Challenge</h3>
+<li><a href="https://github.com/asaggse/Esercizio-Scooter-Lim.git" target="_blank">Scooter Lim</a></li>
+
 
 <h3>My Github Stats 📈:</h3>
 
