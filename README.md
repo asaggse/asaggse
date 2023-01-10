@@ -21,10 +21,12 @@
     <li><a href="https://github.com/asaggse/Xmas-List.git" target="_blank">Xmas List</a></li>
   </ul>
   
-<h3>Coding Challenge</h3>
+<h3>Coding Challenge 💻️:</h3>
 <li><a href="https://github.com/asaggse/Esercizio-Scooter-Lim.git" target="_blank">Scooter Lim</a></li>
 <li><a href="https://github.com/asaggse/custom-countdown.git" target="_blank">Custom Countdown</a></li>
 
+## Vue.js Crash Course:
+[https://github.com/asaggse/Vue.js-Crash-Course.git](https://github.com/asaggse/Vue.js-Crash-Course.git)
 
 <h3>My Github Stats 📈:</h3>
 
