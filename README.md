@@ -25,7 +25,7 @@
 <li><a href="https://github.com/asaggse/Esercizio-Scooter-Lim.git" target="_blank">Scooter Lim</a></li>
 <li><a href="https://github.com/asaggse/custom-countdown.git" target="_blank">Custom Countdown</a></li>
 
-## Vue.js Crash Course:
+## Vue.JS Crash Course:
 [https://github.com/asaggse/Vue.js-Crash-Course.git](https://github.com/asaggse/Vue.js-Crash-Course.git)
 
 <h3>My Github Stats 📈:</h3>
