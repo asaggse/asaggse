@@ -9,7 +9,7 @@
   <li>🌱 I’m currently learning react & vue</li>
 </ul>
 
-## Certifications
+<h3>📜Certifications</h3>
 
 <table>
   <tr>
