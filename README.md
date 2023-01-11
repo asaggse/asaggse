@@ -15,7 +15,7 @@
 
 ## Recent Entries
 
-<h3>🎄 Boolean Coding Week:</h3>
+<h3>🎄Boolean Coding Week:</h3>
   <ul>
     <li><a href="https://github.com/asaggse/Xmas-is-coming.git" target="_blank">Xmas is coming</a></li>
     <li><a href="https://github.com/asaggse/Xmas-is-coming.git" target="_blank">Advent Code Calendar</a></li>
@@ -23,7 +23,7 @@
     <li><a href="https://github.com/asaggse/Xmas-List.git" target="_blank">Xmas List</a></li>
   </ul>
   
-<h3>💻️ Coding Challenge:</h3>
+<h3>💻️Coding Challenge:</h3>
 <li><a href="https://github.com/asaggse/Esercizio-Scooter-Lim.git" target="_blank">Scooter Lim</a></li>
 <li><a href="https://github.com/asaggse/custom-countdown.git" target="_blank">Custom Countdown</a></li>
 
@@ -31,7 +31,7 @@
 
 [https://github.com/asaggse/Vue.js-Crash-Course.git](https://github.com/asaggse/Vue.js-Crash-Course.git)
 
-<h3>My Github Stats 📈:</h3>
+<h3>📈My Github Stats:</h3>
 
 [![Asaggse's GitHub stats](https://github-readme-stats.vercel.app/api?username=asaggse)](https://github.com/asaggse/github-readme-stats)
 
