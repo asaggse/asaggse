@@ -5,7 +5,8 @@
 <p>I'm a software developer with a passion for solving problems and creating innovative solutions 💡. I'm always learning 🤓 and striving to improve my skills, and I'm excited to be a part of the development community 🌟. I believe that collaboration 🤝 and continuous learning 🧠 are key to success in this field, and I'm eager to work with others 🤝 to build something great 🚀.</p>
 
 <!--
-<h2>Skills</h2>
+## Skills
+
 <ul>
   <li>💻️ html, css, js</li>
   <li>🌱 I’m currently learning react & vue</li>
@@ -13,7 +14,8 @@
 -->
 
 ## Recent Entries
-<h3>Boolean Coding Week 🎄:</h3>
+
+<h3>🎄 Boolean Coding Week:</h3>
   <ul>
     <li><a href="https://github.com/asaggse/Xmas-is-coming.git" target="_blank">Xmas is coming</a></li>
     <li><a href="https://github.com/asaggse/Xmas-is-coming.git" target="_blank">Advent Code Calendar</a></li>
@@ -21,11 +23,12 @@
     <li><a href="https://github.com/asaggse/Xmas-List.git" target="_blank">Xmas List</a></li>
   </ul>
   
-<h3>Coding Challenge 💻️:</h3>
+<h3>💻️ Coding Challenge:</h3>
 <li><a href="https://github.com/asaggse/Esercizio-Scooter-Lim.git" target="_blank">Scooter Lim</a></li>
 <li><a href="https://github.com/asaggse/custom-countdown.git" target="_blank">Custom Countdown</a></li>
 
 ## Vue.JS Crash Course:
+
 [https://github.com/asaggse/Vue.js-Crash-Course.git](https://github.com/asaggse/Vue.js-Crash-Course.git)
 
 <h3>My Github Stats 📈:</h3>
