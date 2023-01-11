@@ -2,14 +2,27 @@
 
 <p>I'm a software developer with a passion for solving problems and creating innovative solutions 💡. I'm always learning 🤓 and striving to improve my skills, and I'm excited to be a part of the development community 🌟. I believe that collaboration 🤝 and continuous learning 🧠 are key to success in this field, and I'm eager to work with others 🤝 to build something great 🚀.</p>
 
-<!--
 ## Skills
 
 <ul>
   <li>💻️ html, css, js</li>
   <li>🌱 I’m currently learning react & vue</li>
 </ul>
--->
+
+## Certifications
+
+<table>
+  <tr>
+    <td><strong>freeCodeCamp:</strong></td>
+    <td><a href="https://github.com/asaggse/asaggese.github.io/blob/master/images/certification03.png" target="_blank">Responsive Web Design</a></td>
+    <td><a href="https://github.com/asaggse/asaggese.github.io/blob/master/images/certification01.png" target="_blank">JavaScript Algorithms and Data Structures</a></td>
+    <td><a href="https://github.com/asaggse/asaggese.github.io/blob/master/images/certification02.png" target="_blank">Front End Libraries</a></td>
+  </tr>
+  <tr>
+    <td><strong>Boolean:</strong></td>
+    <td>Boolean Coding Week</td>
+  </tr>
+</table>
 
 ## Recent Entries
 
