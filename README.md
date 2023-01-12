@@ -37,9 +37,23 @@
 </table>
   
 <h3>💻️Coding Challenges:</h3>
-<li><a href="https://github.com/asaggse/Esercizio-Scooter-Lim.git" target="_blank">Scooter Lim</a></li>
-<li><a href="https://github.com/asaggse/custom-countdown.git" target="_blank">Custom Countdown</a></li>
-
+<ul>
+  <li>
+    <h4>Scooter Lim</h4>
+    <p>A project that uses JavaScript to simulate a scooter rental service.</p>
+    <a href="https://github.com/asaggse/Esercizio-Scooter-Lim.git" target="_blank">View on GitHub</a>
+    <span>-</span>
+    <a href="https://asaggse.github.io/Esercizio-Scooter-Lim/" target="_blank">Live demo</a>
+  </li>
+  <li>
+    <h4>Custom Countdown</h4>
+    <p>A project that uses JavaScript to create a customizable countdown timer.</p>
+    <a href="https://github.com/asaggse/custom-countdown.git" target="_blank">View on GitHub</a>
+    <span>-</span>
+    <a href="https://asaggse.github.io/custom-countdown/" target="_blank">Live demo</a>
+  </li>
+</ul>
+  
 ## Vue.JS Crash Course:
 
 [https://github.com/asaggse/Vue.js-Crash-Course.git](https://github.com/asaggse/Vue.js-Crash-Course.git)
