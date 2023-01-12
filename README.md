@@ -30,10 +30,14 @@
 <table>
   <tr>
     <td><a href="https://github.com/asaggse/Xmas-is-coming.git" target="_blank">Xmas is coming</a></td>
-    <td><a href="https://github.com/asaggse/Advent-Code-Calendar" target="_blank">Advent Code Calendar</a></td>
+    <td><a href="https://github.com/asaggse/Advent-Code-Calendar.git" target="_blank">Advent Code Calendar</a></td>
     <td><a href="https://github.com/asaggse/Merry-Xmas-Generator.git" target="_blank">Merry Xmas Generator</a></td>
     <td><a href="https://github.com/asaggse/Xmas-List.git" target="_blank">Xmas List</a></td>
   </tr>
+    <td><a href="https://asaggse.github.io/Xmas-is-coming/" target="_blank">Live Demo</a></td>
+    <td><a href="https://asaggse.github.io/Advent-Code-Calendar/" target="_blank">Live Demo</a></td>
+    <td><a href="https://asaggse.github.io/Merry-Xmas-Generator/" target="_blank">Live Demo</a></td>
+    <td><a href="https://asaggse.github.io/Xmas-List/" target="_blank">Live Demo</a></td>
 </table>
   
 <h3>💻️Coding Challenges:</h3>
