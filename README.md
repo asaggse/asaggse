@@ -10,7 +10,7 @@
   <!-- <li>🌱 I’m currently learning react & vue</li> -->
 </ul>
 
-<h3>📜Certifications</h3>
+<h3>📜 Certifications</h3>
 
 <table>
   <tr>
@@ -27,7 +27,7 @@
 
 ## Recent Entries
 
-<h3>🎄Boolean Coding Week:</h3>
+<h3>🎄 Boolean Coding Week:</h3>
 <table>
   <tr>
     <td><a href="https://github.com/asaggse/Xmas-is-coming.git" target="_blank">Xmas is coming</a></td>
@@ -41,7 +41,7 @@
     <td><a href="https://asaggse.github.io/Xmas-List/" target="_blank">Live Demo</a></td>
 </table>
   
-<h3>💻️Coding Challenges:</h3>
+<h3>💻️ Coding Challenges:</h3>
 <ul>
   <li>
     <h4>Scooter Lim</h4>
@@ -63,7 +63,7 @@
 
 [https://github.com/asaggse/Vue.js-Crash-Course.git](https://github.com/asaggse/Vue.js-Crash-Course.git)
 
-<h3>📈My Github Stats:</h3>
+<h3>📈 My Github Stats:</h3>
 
 [![Asaggse's GitHub stats](https://github-readme-stats.vercel.app/api?username=asaggse)](https://github.com/asaggse/github-readme-stats)
 
