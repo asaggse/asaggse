@@ -6,7 +6,8 @@
 
 <ul>
   <li>💻️ html, css, js</li>
-  <li>🌱 I’m currently learning react & vue</li>
+  <li>🌱 I’m currently learning TypeScript</li>
+  <!-- <li>🌱 I’m currently learning react & vue</li> -->
 </ul>
 
 <h3>📜Certifications</h3>
