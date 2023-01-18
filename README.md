@@ -27,6 +27,16 @@
 
 ## Recent Entries
 
+<ul>
+  <li>
+    <h4>Pong Game</h4>
+    <p>A web-based version of the classic game Pong, built using HTML, CSS, and JavaScript.</p>
+    <a href="https://github.com/asaggse/pong-game.git" target="_blank">View on GitHub</a>
+    <span>-</span>
+    <a href="https://asaggse.github.io/pong-game/" target="_blank">Live demo</a>
+  </li>
+</ul>
+
 <h3>🎄 Boolean Coding Week:</h3>
 <table>
   <tr>
