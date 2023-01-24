@@ -29,6 +29,13 @@
 
 <ul>
   <li>
+    <h4>Tic Tac Toe</h4>
+    <p>A Tic Tac Toe game made with React</p>
+    <a href="https://github.com/asaggse/tic-tac-toe.git" target="_blank">View on GitHub</a>
+    <span>-</span>
+    <a href="https://asaggse.github.io/tic-tac-toe/" target="_blank">Live demo</a>
+  </li>
+  <li>
     <h4>Pong Game</h4>
     <p>A web-based version of the classic game Pong, built using HTML, CSS, and JavaScript.</p>
     <a href="https://github.com/asaggse/pong-game.git" target="_blank">View on GitHub</a>
