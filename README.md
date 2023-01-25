@@ -31,7 +31,7 @@
   <li>
     <h4>Calculator</h4>
     <p>A simple calculator application built using React</p>
-    <a href="git@github.com:asaggse/calculator-react.git" target="_blank">View on GitHub</a>
+    <a href="https://github.com/asaggse/calculator-react.git" target="_blank">View on GitHub</a>
     <span>-</span>
     <a href="https://asaggse.github.io/calculator-react/" target="_blank">Live demo</a>
   </li>
