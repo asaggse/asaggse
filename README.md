@@ -28,6 +28,13 @@
 ## Recent Entries
 
 <ul>
+    <li>
+    <h4>Portfolio</h4>
+    <p>Showcasing my skills with a React-powered front-end portfolio</p>
+    <a href="https://github.com/asaggse/front-end-portfolio.git" target="_blank">View on GitHub</a>
+    <span>-</span>
+    <a href="https://asaggse.github.io/front-end-portfolio/" target="_blank">Live demo</a>
+  </li>
   <li>
     <h4>Calculator</h4>
     <p>A simple calculator application built using React</p>
