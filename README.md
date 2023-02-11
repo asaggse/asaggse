@@ -5,8 +5,8 @@
 ## Skills
 
 <ul>
-  <li>💻️ HTML, CSS, JavaScripy, TypeScript</li>
-  <li>🌱 I’m currently learning React</li>
+  <li>💻️ HTML, CSS, JavaScripy, React</li>
+  <!-- <li>🌱 I’m currently learning React</li> -->
   <!-- <li>🌱 I’m currently learning react & vue</li> -->
 </ul>
 
