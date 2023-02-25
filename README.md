@@ -6,7 +6,7 @@
 
 <ul>
   <li>💻️ HTML, CSS, JavaScripy, React</li>
-  <!-- <li>🌱 I’m currently learning React</li> -->
+  <li>🌱 I’m currently learning Sass & Tailwind CSS</li>
   <!-- <li>🌱 I’m currently learning react & vue</li> -->
 </ul>
 
