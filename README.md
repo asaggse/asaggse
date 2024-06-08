@@ -66,6 +66,15 @@ Collaboration 🤝 and continuous learning 🧠 are at the heart of my professio
   </li>
 </ul>
 
+<h3>✨ UX/UI Design Projects:</h3>
+<ul>
+  <li>
+    <h4>Pomodoro Timer UX/UI Design</h4>
+    <p>An intuitive and aesthetically pleasing Pomodoro Timer design created using Figma.</p>
+    <a href="https://github.com/asaggse/pomodoro-timer-ux-ui-design" target="_blank">View on GitHub</a>
+  </li>
+</ul>
+
 <h3>🎄 Boolean Coding Week:</h3>
 <table>
   <tr>
