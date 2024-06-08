@@ -1,12 +1,16 @@
 # Hi, I'm Alessandro 👋
 
-<p>I'm a developer with a passion for solving problems and creating innovative solutions 💡. I'm always learning 🤓 and striving to improve my skills, and I'm excited to be a part of the development community 🌟. I believe that collaboration 🤝 and continuous learning 🧠 are key to success in this field, and I'm eager to work with others 🤝 to build something great 🚀.</p>
+<p>I'm a developer with a passion for solving problems and creating innovative solutions 💡. Always on the lookout for new knowledge 🤓, I strive to continuously improve my skills and stay updated with the latest trends. Being a part of the development community 🌟 excites me as it offers endless opportunities for learning and collaboration.
+
+Specializing in both front-end development 🌐 and UX/UI design 🎨, I bring a comprehensive approach to building user-friendly and visually appealing applications. I firmly believe that combining technical proficiency with a keen eye for design results in exceptional user experiences.
+
+Collaboration 🤝 and continuous learning 🧠 are at the heart of my professional philosophy. I thrive in team environments where ideas are freely exchanged, and everyone works together towards a common goal. I'm eager to connect with like-minded individuals and contribute to creating something remarkable 🚀. Let's innovate and build the future together!</p>
 
 ## Skills
 
 <ul>
-  <li>💻️ HTML, CSS, JavaScripy, React</li>
-  <li>🌱 I’m currently learning Sass & Tailwind CSS</li>
+  <li>💻️ HTML, CSS, JavaScripy, React, Figma</li>
+  <li>🌱 I’m currently learning Tailwind CSS</li>
   <!-- <li>🌱 I’m currently learning react & vue</li> -->
 </ul>
 
@@ -22,6 +26,10 @@
   <tr>
     <td><strong>Boolean:</strong></td>
     <td>Boolean Coding Week</td>
+  </tr>
+  <tr>
+    <td><strong>Fastweb Digital Academy:</strong></td>
+    <td>UX/UI Design</td>
   </tr>
 </table>
 
@@ -89,10 +97,12 @@
     <a href="https://asaggse.github.io/custom-countdown/" target="_blank">Live demo</a>
   </li>
 </ul>
-  
+
+<!--  
 ## Vue.JS Crash Course:
 
 [https://github.com/asaggse/Vue.js-Crash-Course.git](https://github.com/asaggse/Vue.js-Crash-Course.git)
+-->
 
 <h3>📈 My Github Stats:</h3>
 
