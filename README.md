@@ -29,7 +29,7 @@ Collaboration 🤝 and continuous learning 🧠 are at the heart of my professio
   </tr>
   <tr>
     <td><strong>Fastweb Digital Academy:</strong></td>
-    <td>UX/UI Design</td>
+    <td><a href="https://learn.fastwebdigital.academy/mod/customcert/view.php?id=19130&downloadown=1" target="_blank"> UX/UI Design</td>
   </tr>
 </table>
 
