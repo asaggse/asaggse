@@ -19,9 +19,9 @@ Collaboration 🤝 and continuous learning 🧠 are at the heart of my professio
 <table>
   <tr>
     <td><strong>freeCodeCamp:</strong></td>
-    <td><a href="https://github.com/asaggse/asaggese.github.io/blob/master/images/certification03.png" target="_blank">Responsive Web Design</a></td>
-    <td><a href="https://github.com/asaggse/asaggese.github.io/blob/master/images/certification01.png" target="_blank">JavaScript Algorithms and Data Structures</a></td>
-    <td><a href="https://github.com/asaggse/asaggese.github.io/blob/master/images/certification02.png" target="_blank">Front End Libraries</a></td>
+    <td><a href="https://github.com/asaggse/asaggese.github.io/blob/master/images/certification03.png" target="_blank" rel="noopener noreferrer">Responsive Web Design</a></td>
+    <td><a href="https://github.com/asaggse/asaggese.github.io/blob/master/images/certification01.png" target="_blank" rel="noopener noreferrer">JavaScript Algorithms and Data Structures</a></td>
+    <td><a href="https://github.com/asaggse/asaggese.github.io/blob/master/images/certification02.png" target="_blank" rel="noopener noreferrer">Front End Libraries</a></td>
   </tr>
   <tr>
     <td><strong>Boolean:</strong></td>
@@ -29,7 +29,7 @@ Collaboration 🤝 and continuous learning 🧠 are at the heart of my professio
   </tr>
   <tr>
     <td><strong>Fastweb Digital Academy:</strong></td>
-    <td><a href="https://learn.fastwebdigital.academy/mod/customcert/view.php?id=19130&downloadown=1" target="_blank"> UX/UI Design</td>
+    <td><a href="https://learn.fastwebdigital.academy/mod/customcert/view.php?id=19130&downloadown=1" target="_blank" rel="noopener noreferrer"> UX/UI Design</td>
   </tr>
 </table>
 
